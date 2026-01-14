@@ -1,0 +1,20 @@
+{
+  "version": "1.0.9",
+  "updatedAt": "2026-01-14T01:00:00Z",
+  "beta": {
+    "active": true,
+    "message": "🚀 Antigravity está em BETA ABERTO. Todos os recursos estão liberados durante esta fase.",
+    "expiresAt": null
+  },
+  "flags": {
+    "profiles_unlimited": true,
+    "cookie_import": true,
+    "multi_tab": true,
+    "cloud_sync": false,
+    "team_workspace": false,
+    "api_access": false,
+    "proxy_integration": false,
+    "force_update": false,
+    "maintenance_mode": false
+  }
+}
