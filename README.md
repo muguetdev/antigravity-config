@@ -41,6 +41,7 @@ Arquivo principal de configuração de feature flags e estado do beta.
 ### System Flags
 - `force_update` - Forçar atualização obrigatória
 - `maintenance_mode` - Modo manutenção
+- `kill_switch` - 🚨 Emergência: desliga features críticas em caso de bug/exploit
 
 ## 🔧 Como funciona
 

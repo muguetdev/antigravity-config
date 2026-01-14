@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "config-1.0.0",
   "updatedAt": "2026-01-14T01:00:00Z",
   "beta": {
     "active": true,
@@ -15,6 +15,7 @@
     "api_access": false,
     "proxy_integration": false,
     "force_update": false,
-    "maintenance_mode": false
+    "maintenance_mode": false,
+    "kill_switch": false
   }
 }
